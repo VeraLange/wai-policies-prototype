@@ -45,4 +45,64 @@ policies:
           da: Retningslinjer for tilgængeligt webindhold (WCAG) 2.0
         url:
           da: http://www.w3.org/Translations/WCAG20-da/
+  - title:
+      en: Web Accessibility Act 
+      da: Lov om tilgængelighed af offentlige organers websteder og mobilapplikationer
+    url:
+      da: https://www.retsinformation.dk/eli/lta/2018/692
+    updated: 2023-03-08
+    wcagver: Other
+    enactdate: 2018
+    type: Accessibility law
+    ministries:
+      - title:
+          en: Ministry of Finance - Digitalization Agency
+          da: Digitaliseringsstyrelsen
+        url:
+          da: http://www.digst.dk/Servicemenu/Om-os
+    webonly: no
+    scope: Public sector, Government
+    standard:
+      - title:
+          en: "EN 301 549"
+        desc: "Chapters 9, 10 and 11 of the harmonized standard EN 301 549 define the law's requirements for web accessibility. The standard for the law on web accessibility is laid down in an executive order on standard."
+        url:
+          da: https://www.retsinformation.dk/eli/lta/2019/197
+    documents:
+      - title:
+          en: Digital Services website
+          da: Digitaliseringsstyrelsen
+        url:
+          da: https://digst.dk/digital-service/webtilgaengelighed/
+        desc: Digitaliseringsstyrelsen provides support and information about web accessibility and the web accessibility act   
+  - title:
+      en: Executive Order no. 904 for the declaration of accessibility
+      da: Bekendtgørelse om afgivelse af tilgængelighedserklæring for offentlige organers websteder og mobilapplikationer, samt monitorering og indrapportering
+    url:
+      da: https://www.retsinformation.dk/eli/lta/2018/692
+    updated: 2023-03-08
+    wcagver: WCAG 2.1
+    enactdate: 2019
+    type: Mandatory policy
+    ministries:
+      - title:
+          en: Ministry of Finance - Digitalization Agency
+          da: Digitaliseringsstyrelsen
+        url:
+          da: https://en.fm.dk/
+    webonly: yes
+    scope: Public sector, Government
+    standard:
+      - title:
+          en: "EN 301 549"
+        desc: "Chapters 9, 10 and 11 of the harmonized standard EN 301 549 define the law's requirements for web accessibility. The standard for the law on web accessibility is laid down in an executive order on standard."
+        url:
+          da: https://www.retsinformation.dk/eli/lta/2019/197
+    documents:
+      - title:
+          en: Web Accessibility Statement Tool (WAS tool)
+        url:
+          da: https://digst.dk/digital-service/webtilgaengelighed/was-tool/
+        desc: Accessibility Statements are obligatory for every public sector body website and mobile application. The declarations must be created in the Danish Digitization Agency's WAS-Tool. The Danish Digitization Organization offers clear information including FAQ, tools and information about laws and regulations.
+   
 ---
