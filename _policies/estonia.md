@@ -8,18 +8,45 @@ updated: 2023-03-28
 updatemsg:
 policies:
   - title:
-      en: ""
+      en: "Veebilehe ja mobiilirakenduse ligipääsetavuse nõuded ning ligipääsetavust kirjeldava teabe avaldamise kord"
+      et: "Requirements for the accessibility of websites and mobile applications, and the rules for publishing information describing accessibility"
     url:
-      en: 
+      en: https://www.riigiteataja.ee/en/eli/512042019003/consolide
+      et: https://www.riigiteataja.ee/akt/105032019027
     updated: 
-    wcagver: WCAG 2.1|WCAG 2.0|WCAG 2.0 derivate|None
-    enactdate: 
-    type: Accessibility law|Non-discrimination law|Procurement law|Procurement recommendation|Mandatory policy|Recommended policy|Unsure
+    wcagver: WCAG 2.1
+    enactdate: 2019
+    type: Accessibility law
+    ministries:
+      - title:
+          en: "Minister of Entrepreneurship and Information Technology"
+          et: "Ettevõtlus- ja infotehnoloogiaminister"
+        url:
+          et: https://mkm.ee/et 
+    webonly: true
+    scope: Government, Public sector
+    standard:
+      - title:
+          en: "EN 301 549"
+        url:
+          en: https://www.evs.ee/et/evs-en-301-549-v3-2-1-2021
+  - title:
+      en: "Public Information Act"
+      et: "Avaliku teabe seadus"
+    url:
+      en: https://www.riigiteataja.ee/en/eli/ee/503012019004/consolide/current
+      et: https://www.riigiteataja.ee/akt/107032023011
+    updated: 2023
+    wcagver: None
+    enactdate: 2000
+    type: Accessibility law
     ministries:
       - title:
           en: ""
+          et: "Riigikogu"
         url:
           en:
+          et: https://www.riigikogu.ee/
     webonly: true|false
     scope: $scope
     standard:
